@@ -190,7 +190,7 @@ http://148.72.155.84:80/jalshamuvies-enc/video.m3u8?token=thenayeemparvez
 http://148.72.155.84:80/ZeeBanglaCinema/index.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRplRD9IY6CQhf-knR6D52hdCmNLBp7bRPg&usqp=CAU", Sun Bangla
-http://opplex.tv:8080/1234/1234/167831
+http://opplex.tv:8080/12345/12345/167831
 
 
 
@@ -573,13 +573,13 @@ http://103.161.2.142/hls/axn.m3u8
 http://183.178.58.115:8022/0.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 HD (Backup)
-http://opplex.tv:8080/1234/1234/167570?configured-by=thenayeemparvez
+http://opplex.tv:8080/12345/12345/167570?configured-by=thenayeemparvez
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO6qEos9p5VsrgiGfFpELGhHFKFHYHiKoUcA&usqp=CAU",Sony Ten 2 HD (Backup)
-http://opplex.tv:8080/1234/1234/167571?configured-by=thenayeemparvez
+http://opplex.tv:8080/12345/12345/167571?configured-by=thenayeemparvez
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO6qEos9p5VsrgiGfFpELGhHFKFHYHiKoUcA&usqp=CAU",Sony Ten 3 HD (Backup)
-http://opplex.tv:8080/1234/1234/167572?configured-by=thenayeemparvez
+http://opplex.tv:8080/12345/12345/167572?configured-by=thenayeemparvez
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfki1svnL_wO86CzAKhIWl1SwKMMO6uMd-aw&usqp=CAU", Sony Sab HD (Backup)
 http://146.19.16.55:25461/live/DM_Snappyarr/adfsgbhgsvdfv/241777.m3u8?token=ShpcUxVdEgoVB1ECBVRQAQoCBAEEUAUAVAFSUQICC1YJWQMBUVMCUgJAGxESEBMBWVs5WVMUDVBQAAdTURoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNUkgTQA0CFAgNRFRYHkRQSERSEFlSDTsFAU5fBVUVDFkXCF0cRglYbQdUVVVcAhcKEgZAGxEIFxFGAlgTXFsaFQANRUIFElMQWV9NWF5KF1NfQgxDQRhGW0ZoekQcFVNPFgFfQw0JWBBZE1UHR14XHBJeEWhBBBcVFl1XC1VFFA1AVRMcRgtXSjxSV1pcA1ZEWVgMRBFbRlRUCAZEHBVbWAwNRV8WOUZbBxMCWkcKWU0=
